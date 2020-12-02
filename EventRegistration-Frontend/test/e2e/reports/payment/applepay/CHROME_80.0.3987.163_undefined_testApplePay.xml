@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="payment.applepay.testApplePay"
+    errors="0" failures="0" hostname="" id="" package="applepay" skipped="0"
+    tests="5" time="63.54" timestamp="Sat, 11 Apr 2020 21:57:58 GMT">
+  
+    <testcase name="Test Apple Pay: 01 Component Existance" classname="payment.applepay.testApplePay" time="5.491" assertions="28">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Apple Pay: 02 Valid Payment" classname="payment.applepay.testApplePay" time="13.80" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Apple Pay: 03 Invalid ID" classname="payment.applepay.testApplePay" time="13.87" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Apple Pay: 04 Invalid Amount" classname="payment.applepay.testApplePay" time="13.82" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Apple Pay: 05 Update Payment" classname="payment.applepay.testApplePay" time="16.57" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,271 @@
+17:56:56.286 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+17:56:56.392 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
+2020-04-11 17:56:56.456:INFO::main: Logging initialized @448ms to org.seleniumhq.jetty9.util.log.StdErrLog
+17:56:56.756 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
+17:56:56.859 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+17:56:57.250 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Event \u002f Circus \u002f Circus"
+}
+17:56:57.252 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 45606
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:56:59.164 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:56:59.231 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session aa2a8780aa1af1c55cbefe6034155341 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642219.514][SEVERE]: Timed out receiving message from renderer: 0.100
+17:57:13.282 INFO [ActiveSessions$1.onStop] - Removing session aa2a8780aa1af1c55cbefe6034155341 (org.openqa.selenium.chrome.ChromeDriverService)
+17:57:13.298 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Event \u002f Circus \u002f Circus"
+}
+17:57:13.298 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 45550
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:57:14.550 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:57:14.556 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 1813f408382c34268e32838352d29520 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642234.843][SEVERE]: Timed out receiving message from renderer: 0.100
+17:57:26.421 INFO [ActiveSessions$1.onStop] - Removing session 1813f408382c34268e32838352d29520 (org.openqa.selenium.chrome.ChromeDriverService)
+17:57:26.452 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Event \u002f Circus \u002f Circus"
+}
+17:57:26.453 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 13715
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:57:27.850 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:57:27.856 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 9eb9125c317ebd3ade40df8ef6d8cc3b (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642248.078][SEVERE]: Timed out receiving message from renderer: 0.100
+17:57:41.370 INFO [ActiveSessions$1.onStop] - Removing session 9eb9125c317ebd3ade40df8ef6d8cc3b (org.openqa.selenium.chrome.ChromeDriverService)
+17:57:41.400 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Event \u002f Circus \u002f Circus"
+}
+17:57:41.400 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 35015
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:57:42.701 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:57:42.705 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 7147114bcbba7dbb8df1b08698bcc590 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642262.937][SEVERE]: Timed out receiving message from renderer: 0.100
+17:57:56.393 INFO [ActiveSessions$1.onStop] - Removing session 7147114bcbba7dbb8df1b08698bcc590 (org.openqa.selenium.chrome.ChromeDriverService)
+17:57:56.407 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Event \u002f Circus \u002f Circus"
+}
+17:57:56.407 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 37856
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:57:57.651 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:57:57.655 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 87f8dcb03557c4b020559e227f2f49ab (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642277.899][SEVERE]: Timed out receiving message from renderer: 0.100
+17:57:58.423 INFO [ActiveSessions$1.onStop] - Removing session 87f8dcb03557c4b020559e227f2f49ab (org.openqa.selenium.chrome.ChromeDriverService)
+17:57:58.643 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Payment \u002f Applepay \u002f Test Apple Pay"
+}
+17:57:58.643 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 27321
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:58:01.869 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:58:01.882 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 570851f087490f5961b2e327ae0bcd3f (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642282.121][SEVERE]: Timed out receiving message from renderer: 0.100
+17:58:04.106 INFO [ActiveSessions$1.onStop] - Removing session 570851f087490f5961b2e327ae0bcd3f (org.openqa.selenium.chrome.ChromeDriverService)
+17:58:04.149 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Payment \u002f Applepay \u002f Test Apple Pay"
+}
+17:58:04.150 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 7279
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:58:06.319 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:58:06.324 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session e04b8e335b2e5dc0004ca59a2edc9e88 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642286.586][SEVERE]: Timed out receiving message from renderer: 0.100
+17:58:17.913 INFO [ActiveSessions$1.onStop] - Removing session e04b8e335b2e5dc0004ca59a2edc9e88 (org.openqa.selenium.chrome.ChromeDriverService)
+17:58:17.927 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Payment \u002f Applepay \u002f Test Apple Pay"
+}
+17:58:17.927 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 34335
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:58:19.345 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:58:19.351 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 593dbc273101aedbb08bdaee89a94025 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642299.566][SEVERE]: Timed out receiving message from renderer: 0.100
+17:58:31.780 INFO [ActiveSessions$1.onStop] - Removing session 593dbc273101aedbb08bdaee89a94025 (org.openqa.selenium.chrome.ChromeDriverService)
+17:58:31.807 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Payment \u002f Applepay \u002f Test Apple Pay"
+}
+17:58:31.807 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 4319
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:58:33.185 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:58:33.190 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 12a2bd985a1141233baa2afe0eaac6db (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642313.391][SEVERE]: Timed out receiving message from renderer: 0.100
+17:58:45.600 INFO [ActiveSessions$1.onStop] - Removing session 12a2bd985a1141233baa2afe0eaac6db (org.openqa.selenium.chrome.ChromeDriverService)
+17:58:45.612 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Payment \u002f Applepay \u002f Test Apple Pay"
+}
+17:58:45.613 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 15289
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:58:47.248 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:58:47.252 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 20c2eac05452899bf44a5df6cfb49340 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642327.473][SEVERE]: Timed out receiving message from renderer: 0.100
+17:59:02.165 INFO [ActiveSessions$1.onStop] - Removing session 20c2eac05452899bf44a5df6cfb49340 (org.openqa.selenium.chrome.ChromeDriverService)
+17:59:02.285 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Role \u002f Organizer \u002f Test Organizer"
+}
+17:59:02.285 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 44918
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:59:03.570 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:59:03.574 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session f50aa9a27cfffd4ca1d16d9f08a29b39 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642343.838][SEVERE]: Timed out receiving message from renderer: 0.100
+17:59:08.109 INFO [ActiveSessions$1.onStop] - Removing session f50aa9a27cfffd4ca1d16d9f08a29b39 (org.openqa.selenium.chrome.ChromeDriverService)
+17:59:08.141 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Role \u002f Organizer \u002f Test Organizer"
+}
+17:59:08.142 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 32780
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:59:11.170 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:59:11.173 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session b716cccb396cbeb4638b6d0985379ede (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642351.585][SEVERE]: Timed out receiving message from renderer: 0.100
+17:59:15.430 INFO [ActiveSessions$1.onStop] - Removing session b716cccb396cbeb4638b6d0985379ede (org.openqa.selenium.chrome.ChromeDriverService)
+17:59:15.478 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Role \u002f Organizer \u002f Test Organizer"
+}
+17:59:15.481 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 47432
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:59:18.510 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:59:18.517 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 5ed625d79d74c80411e32b99bc29330e (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642358.796][SEVERE]: Timed out receiving message from renderer: 0.100
+17:59:25.191 INFO [ActiveSessions$1.onStop] - Removing session 5ed625d79d74c80411e32b99bc29330e (org.openqa.selenium.chrome.ChromeDriverService)
+17:59:25.219 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "chromeOptions": {
+    "prefs": {
+      "intl.accept_languages": "en-CA, fr-CA, en_CA, fr_CA, en"
+    }
+  },
+  "javascriptEnabled": true,
+  "name": "Role \u002f Organizer \u002f Test Organizer"
+}
+17:59:25.220 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 12712
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+17:59:26.630 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+17:59:26.633 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session c6c08859f8443acbebc97aed0b26c876 (org.openqa.selenium.chrome.ChromeDriverService)
+[1586642366.871][SEVERE]: Timed out receiving message from renderer: 0.100
+17:59:33.659 INFO [ActiveSessions$1.onStop] - Removing session c6c08859f8443acbebc97aed0b26c876 (org.openqa.selenium.chrome.ChromeDriverService)

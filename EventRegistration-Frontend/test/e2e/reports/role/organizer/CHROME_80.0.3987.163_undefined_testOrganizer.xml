@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="6">
+
+  <testsuite name="role.organizer.testOrganizer"
+    errors="0" failures="0" hostname="" id="" package="organizer" skipped="0"
+    tests="6" time="31.39" timestamp="Sat, 11 Apr 2020 21:59:02 GMT">
+  
+    <testcase name="Test existance of all elements" classname="role.organizer.testOrganizer" time="2.219" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Creating Person" classname="role.organizer.testOrganizer" time="3.620" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Creating Professional" classname="role.organizer.testOrganizer" time="7.322" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Creating 2 Professional" classname="role.organizer.testOrganizer" time="9.767" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Create a sample event for next tests" classname="role.organizer.testOrganizer" time="4.800" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Test Assign a Professional to an Event" classname="role.organizer.testOrganizer" time="3.661" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
